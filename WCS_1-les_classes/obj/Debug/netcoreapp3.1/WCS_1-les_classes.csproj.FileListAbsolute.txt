@@ -1,0 +1,14 @@
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\bin\Debug\netcoreapp3.1\WCS_1-les_classes.exe
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\bin\Debug\netcoreapp3.1\WCS_1-les_classes.deps.json
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\bin\Debug\netcoreapp3.1\WCS_1-les_classes.runtimeconfig.json
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\bin\Debug\netcoreapp3.1\WCS_1-les_classes.runtimeconfig.dev.json
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\bin\Debug\netcoreapp3.1\WCS_1-les_classes.dll
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\bin\Debug\netcoreapp3.1\WCS_1-les_classes.pdb
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.csproj.AssemblyReference.cache
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.AssemblyInfoInputs.cache
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.AssemblyInfo.cs
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.csproj.CoreCompileInputs.cache
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.dll
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.pdb
+C:\Users\Cab\source\repos\WCS_1-les_classes\WCS_1-les_classes\obj\Debug\netcoreapp3.1\WCS_1-les_classes.genruntimeconfig.cache
